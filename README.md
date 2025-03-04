@@ -1,4 +1,8 @@
 # TIL
+## 25-1학기
+[전공과목 정리](25-1_M/index.md)
+<hr>
+
 ## Jackson Library
 [Jackson](Jackson/index.md)
 ## 디자인 패턴
