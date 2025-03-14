@@ -3,6 +3,6 @@
 > - [OT](ot.md)
 > - [1. Computer System Overview I](ch01.md)
 
-## n주차
-> - 
+## 2주차
+> - [2. Computer System Overview I](ch02.md)
 
