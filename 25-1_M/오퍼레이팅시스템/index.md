@@ -4,5 +4,5 @@
 > - [1. Computer System Overview I](ch01.md)
 
 ## 2주차
-> - [2. Computer System Overview I](ch02.md)
+> - [2. Computer System Overview II](ch02.md)
 
