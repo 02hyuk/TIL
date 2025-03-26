@@ -3,10 +3,11 @@
 
 강의 이해한 내용 타이핑하면서 기억 되새겨보자
 ## 컴퓨터 네트워크
+Fourzan - TCP/IP protocol suite (4판) 내용 기반
 
 [네트워크 정리](컴퓨터네트워크/index.md)
 ## 운영체제
-*William Stallings*의 운영체제 책 위주로 내용 전개
+William Stallings의 운영체제 책 위주로 내용 전개
 
 [운영체제 정리](오퍼레이팅시스템/index.md)
 ## 알고리즘
